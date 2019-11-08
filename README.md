@@ -1,7 +1,7 @@
-# GGeoTrace
-Graphic Geological Traceroute - See where your connections jump (WIP)
+# NGeoTrace
+Nice Geographical Traceroute - See where your connections jump (WIP)
 
-The purpose of this program is to provide a visualization of a traceroute with the help of a geopolitical map (planning on using OpenStreetMap)
+The purpose of this program is to provide a visualization of a traceroute with the help of a geographical map (planning on using OpenStreetMap)
 
 ### TODO list
 - [ ] Implement a traceroute program (choosing between already made solutions or a basic custom made one)
